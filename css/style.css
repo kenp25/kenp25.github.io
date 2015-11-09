@@ -1083,5 +1083,31 @@
 				}
 
 		#footer .icons a {
-			color: #bbb;
+			color: #fff;
 		}
+
+h1, h2, h3, h4, h5, h6{
+	text-transform: none;
+}
+
+#footer{
+	background-color: dodgerblue;
+	color: white;
+}
+
+#footer h3{
+	color: white;
+}
+
+/*
+#header{
+	position: relative;
+}*/
+
+#what-i-do{
+	background-color: #bfa;
+}
+
+#about-me p{
+	text-align: left;
+}
