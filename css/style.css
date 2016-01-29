@@ -1111,3 +1111,23 @@ h1, h2, h3, h4, h5, h6{
 #about-me p{
 	text-align: left;
 }
+
+
+form .form-control{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-color: white;
+	border-radius: 0px;
+	margin-bottom: 5px;
+}
+
+.btn{
+	padding: 10px;
+	border-radius: 0px;
+	border-color: lightseagreen;
+	color: white;
+	background-color: lightseagreen;
+	border-style: none;
+
+}
