@@ -977,12 +977,12 @@
 /* Banner */
 
 	#banner {
-		background-color: #666666;
-		background-image: url("../images/banner.jpg");
-		background-size: cover;
+		/*background-color: dodgerblue;*/
+		background: url("../images/panel-bg.png") repeat;
+/*		background-size: cover;
 		background-position: center center;
-		background-repeat: no-repeat;
-		color: #d8d8d8;
+		background-repeat: no-repeat;*/
+		color: #fff;
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
